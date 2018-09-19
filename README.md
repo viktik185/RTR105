@@ -22,3 +22,11 @@ burts+tab (komandu saraksts)
 history (vesture)
 history > history .........txt(dokumenta nosaukums)
 firefox & (atver firefox)
+Skripts
+mkdir Mape
+cd Mape
+mddir MapeMapee
+mdkir MapeMapee
+git clone https:/github.com/viktik185/RTR105
+
+
