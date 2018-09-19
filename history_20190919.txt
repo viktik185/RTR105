@@ -51,3 +51,17 @@
    51  ls -l
    52  hidtory > history_20190919.txt
    53  history > history_20190919.txt
+   54  pwd
+   55  ls -l
+   56  git 
+   57  pwd
+   58  ./git-upload
+   59  ./git-upload 20180919_09_50
+   60  ls -l
+   61  python
+   62  ipython
+   63  idol
+   64  idle
+   65  pwd
+   66  ls -l
+   67  history > history_20190919.txt
