@@ -1,0 +1,9 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  cd RTR105/
+    5  nano git - upload
+    6  Python
+    7  ipython
+    8  firefox &
+    9  history > history20180926
