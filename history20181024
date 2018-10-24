@@ -1,0 +1,7 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  ls
+    5  pwd
+    6  ls -l
+    7  history > history20181024
